@@ -20,7 +20,7 @@ Estou sempre em busca de novos conhecimentos para aprimorar minhas habilidades e
 
 ## 📈 **Um pouco mais sobre o meu perfil**
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=oalfredojr=true&theme=radical)
+![Junior's GitHub stats](https://github-readme-stats.vercel.app/api?username=oalfredojr&show_icons=true&theme=radical)
 
 ## 📫 **Entre em contato:**
 
