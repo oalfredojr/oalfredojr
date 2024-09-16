@@ -25,5 +25,5 @@ Estou sempre em busca de novos conhecimentos para aprimorar minhas habilidades e
 ## 📫 **Entre em contato:**
 
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/oalfredojr)  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/alfredo-corr%C3%AAa-lima-junior-508028114/](https://www.linkedin.com/in/alfredo-corr%C3%AAa-lima-junior-508028114/))  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/alfredo-corr%C3%AAa-lima-junior-508028114/))  
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](contatoalfredo@live.com)
